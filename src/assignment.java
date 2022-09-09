@@ -8,6 +8,7 @@ public class assignment {
             else
             {
                 System.out.println(i +"odd numbers");
+                System.out.println(i +"odd numbers");
 
             }
 
