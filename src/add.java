@@ -6,5 +6,7 @@ public class add {
         }
 
         System.out.println( "Sum of first 100 natural number is ="+sum);
+        
+        System.out.println( "Sum of first 100 natural number is ="+sum);
                 }
 }
